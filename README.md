@@ -8,6 +8,10 @@ App Created with Expo CLI
 ``` 
 npm install -g expo-cli
 
+npm root -g
+/home/user/.nvm/versions/node/v14.4.0/lib/node_modules
+
+
 expo whoami
 
 expo register
