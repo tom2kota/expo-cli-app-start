@@ -33,3 +33,15 @@ BROWSER=firefox npm start
 
 
 -------------------------------
+
+## [Upgrade Yarn Version](https://phoenixnap.com/kb/how-to-install-yarn-ubuntu)
+```
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+```
+
+
+## Upgrade a Yarn Dependency
+```
+yarn upgrade
+yarn upgrade --latest
+```
