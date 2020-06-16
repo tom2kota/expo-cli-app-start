@@ -49,3 +49,18 @@ curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
 yarn upgrade
 yarn upgrade --latest
 ```
+--------------------------------
+
+- [http://localhost:19002/](http://localhost:19002/)
+```
+Starting Metro Bundler on port 19001.
+
+Building JavaScript bundle: 1%
+```
+
+- [http://localhost:19001/](http://localhost:19001/)
+```
+React Native packager is running.
+
+Visit documentation
+```
