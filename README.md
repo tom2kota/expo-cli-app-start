@@ -1,4 +1,4 @@
-# expo-cli-app01
+# expo-cli-app-start 
 App Created with Expo CLI 
 
 -------------------------------
