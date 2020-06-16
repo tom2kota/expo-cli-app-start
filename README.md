@@ -25,4 +25,11 @@ expo login
 expo init
 ```
 
+## Starting the development server
+```
+npm start
+BROWSER=firefox npm start
+```
+
+
 -------------------------------
